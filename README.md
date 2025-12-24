@@ -1,5 +1,5 @@
 ### Crafting Stations V1.0 ###
-#### textures modified: ####
+#### Textures modified: ####
 - Crafting Table
 - Smithing Table
 - Cartography Table
